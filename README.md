@@ -1,2 +1,2 @@
-# Project-Hail-Mary
+# project-hailmary
 A fully new Repository 
